@@ -1,4 +1,4 @@
-# Anazliza skoku spadochronowego
+# Analiza skoku spadochronowego
 ## Równania różniczkowe
 
 ## Opis raportu
