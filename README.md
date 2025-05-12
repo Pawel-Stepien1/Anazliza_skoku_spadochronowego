@@ -1,1 +1,3 @@
-# Anazliza_skoku_spadochronowego
+# Anazliza skoku spadochronowego
+## Równania różniczkowe
+
